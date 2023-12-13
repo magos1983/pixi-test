@@ -1,0 +1,447 @@
+backgroundMainGame.webp
+	size: 2048, 2048
+	filter: MipMapLinearLinear, MipMapLinearLinear
+10_saturated
+	bounds: 1506, 4, 35, 47
+	offsets: 4, 2, 40, 50
+	rotate: 90
+1_saturated
+	bounds: 2003, 888, 33, 47
+	offsets: 1, 2, 36, 50
+2_saturated
+	bounds: 2003, 987, 34, 53
+	offsets: 2, 5, 37, 64
+3
+	bounds: 1555, 6, 33, 48
+	offsets: 1, 1, 35, 50
+	rotate: 90
+4
+	bounds: 2003, 937, 34, 48
+	offsets: 1, 1, 36, 50
+5
+	bounds: 2003, 840, 36, 46
+	offsets: 1, 1, 38, 48
+6
+	bounds: 1456, 4, 35, 48
+	offsets: 1, 1, 37, 50
+	rotate: 90
+7
+	bounds: 1405, 4, 35, 49
+	offsets: 1, 1, 37, 51
+	rotate: 90
+8
+	bounds: 2003, 793, 36, 45
+	offsets: 1, 1, 38, 47
+9_saturated
+	bounds: 1514, 1161, 33, 56
+	offsets: 1, 2, 35, 59
+	rotate: 90
+BlackSolidVingette
+	bounds: 2, 17, 10, 100
+	rotate: 90
+GlowBehindHousesmall
+	bounds: 1696, 209, 306, 283
+Ground7b
+	bounds: 2, 1394, 1777, 652
+HorizonSmall3
+	bounds: 1357, 275, 919, 155
+	offsets: 10, 32, 941, 198
+	rotate: 90
+LeftCable2
+	bounds: 1214, 58, 466, 110
+	offsets: 7, 1, 475, 135
+	rotate: 90
+Pillar_LNew2
+	bounds: 1514, 281, 180, 869
+	offsets: 5, 62, 410, 931
+Pillar_Rnew
+	bounds: 1781, 1152, 201, 894
+	offsets: 45, 52, 250, 946
+SKULL
+	bounds: 1625, 38, 322, 169
+	offsets: 2, 0, 324, 169
+arch2
+	bounds: 688, 526, 541, 667
+	offsets: 0, 0, 541, 700
+	rotate: 90
+blackDoorwaySmall
+	bounds: 1326, 41, 232, 297
+	offsets: 0, 1, 232, 298
+	rotate: 90
+chimney top front
+	bounds: 1214, 2, 54, 36
+	offsets: 9, 5, 66, 51
+	rotate: 90
+dohhouse_shadow
+	bounds: 2, 1196, 1375, 196
+	offsets: 22, 21, 1418, 237
+gold bone 2
+	bounds: 1252, 8, 58, 48
+	offsets: 1, 1, 60, 51
+gold bone 4
+	bounds: 1625, 220, 59, 59
+	offsets: 1, 1, 61, 62
+gold nugget 1
+	bounds: 1359, 2, 37, 44
+	offsets: 1, 2, 44, 47
+	rotate: 90
+gold nugget 2
+	bounds: 1312, 2, 45, 37
+	offsets: 12, 1, 59, 39
+gold nugget 3
+	bounds: 2003, 714, 39, 32
+	offsets: 2, 1, 44, 35
+	rotate: 90
+gold nugget 4
+	bounds: 2003, 689, 32, 23
+	offsets: 1, 3, 37, 41
+gold nugget 5
+	bounds: 1326, 459, 33, 21
+	offsets: 2, 1, 58, 33
+	rotate: 90
+lamp_L2
+	bounds: 1949, 27, 87, 180
+	offsets: 2, 3, 89, 183
+lightBulbLight
+	bounds: 2003, 755, 36, 36
+	offsets: 2, 2, 40, 40
+logo
+	bounds: 1696, 494, 656, 305
+	offsets: 6, 3, 669, 309
+	rotate: 90
+pillar_nail_1
+	bounds: 2003, 633, 24, 24
+	offsets: 2, 1, 27, 26
+pillar_nail_2
+	bounds: 2003, 608, 24, 23
+	offsets: 1, 1, 27, 25
+pillar_nail_3
+	bounds: 1326, 494, 30, 28
+	offsets: 2, 1, 33, 30
+	rotate: 90
+pillar_nail_4
+	bounds: 1326, 433, 24, 21
+	offsets: 2, 1, 27, 23
+	rotate: 90
+rooftop_base3
+	bounds: 2, 1069, 1301, 125
+	offsets: 3, 12, 1321, 148
+shadow door R
+	bounds: 1581, 1161, 189, 231
+	offsets: 255, 19, 464, 275
+small cactus2
+	bounds: 1379, 1196, 196, 200
+	offsets: 27, 0, 223, 200
+	rotate: 90
+smaller_dust_spine/dust_00000
+	bounds: 2030, 1340, 103, 16
+	offsets: 7, 11, 112, 40
+	rotate: 90
+smaller_dust_spine/dust_00001
+	bounds: 1305, 1074, 120, 36
+	offsets: 6, 6, 134, 49
+	rotate: 90
+smaller_dust_spine/dust_00002
+	bounds: 2003, 1042, 126, 39
+	offsets: 4, 7, 138, 56
+	rotate: 90
+smaller_dust_spine/dust_00003
+	bounds: 1984, 1170, 133, 43
+	offsets: 7, 7, 147, 60
+	rotate: 90
+smaller_dust_spine/dust_00004
+	bounds: 1984, 1305, 138, 44
+	offsets: 7, 8, 152, 62
+	rotate: 90
+smaller_dust_spine/dust_00005
+	bounds: 1984, 1445, 142, 54
+	offsets: 8, 6, 157, 64
+	rotate: 90
+smaller_dust_spine/dust_00006
+	bounds: 1984, 1589, 146, 58
+	offsets: 8, 5, 161, 66
+	rotate: 90
+smaller_dust_spine/dust_00007
+	bounds: 1984, 1737, 151, 59
+	offsets: 7, 6, 165, 68
+	rotate: 90
+smaller_dust_spine/dust_00008
+	bounds: 1984, 1890, 156, 61
+	offsets: 7, 6, 169, 70
+	rotate: 90
+sparkle
+	bounds: 2003, 659, 22, 28
+vingetteQuarter
+	bounds: 700, 12, 512, 512
+wagon
+	bounds: 2, 499, 684, 568
+	offsets: 0, 0, 713, 568
+yellowOverlay
+	bounds: 2, 29, 696, 468
+	offsets: 30, 0, 755, 487
+
+backgroundMainGame_2.webp
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+POSTER
+	bounds: 1339, 704, 123, 150
+	offsets: 10, 19, 164, 204
+	rotate: 90
+RightCable2
+	bounds: 836, 151, 298, 70
+	offsets: 0, 4, 302, 84
+	rotate: 90
+Ropes_lightbulbs_L2
+	bounds: 286, 430, 592, 249
+	offsets: 0, 17, 592, 266
+	rotate: 90
+Ropes_lightbulbs_R2
+	bounds: 1510, 783, 532, 239
+	offsets: 0, 1, 532, 306
+SKULL shadow
+	bounds: 695, 148, 301, 139
+	offsets: 7, 9, 315, 149
+	rotate: 90
+base_lamp_L
+	bounds: 1865, 321, 69, 111
+	offsets: 26, 1, 96, 113
+bush
+	bounds: 537, 451, 571, 328
+	rotate: 90
+bush 11
+	bounds: 1748, 650, 252, 131
+	offsets: 0, 0, 253, 132
+bushy
+	bounds: 1434, 475, 227, 122
+	offsets: 0, 0, 272, 122
+	rotate: 90
+cactus
+	bounds: 303, 2, 222, 426
+cactus_shadow3
+	bounds: 1103, 188, 279, 125
+	rotate: 90
+cactuses L2
+	bounds: 1627, 576, 126, 115
+	offsets: 1, 0, 127, 116
+	rotate: 90
+chimney
+	bounds: 900, 2, 109, 147
+	offsets: 23, 1, 138, 148
+chimney top back
+	bounds: 615, 97, 59, 45
+	offsets: 1, 2, 60, 47
+curtainLeft
+	bounds: 867, 469, 239, 553
+	offsets: 10, 8, 256, 571
+curtainRight
+	bounds: 1108, 471, 229, 551
+	offsets: 20, 26, 277, 594
+fog_Lsmall
+	bounds: 1329, 9, 179, 183
+	offsets: 6, 18, 189, 220
+fog_Rsmall
+	bounds: 1078, 2, 178, 168
+	offsets: 10, 8, 193, 188
+	rotate: 90
+glow_l_2
+	bounds: 1865, 564, 84, 84
+	offsets: 4, 5, 89, 89
+glow_l_3
+	bounds: 1955, 565, 85, 83
+	offsets: 7, 5, 97, 94
+glow_l_4
+	bounds: 1586, 214, 84, 74
+	offsets: 4, 5, 93, 83
+glow_l_5
+	bounds: 1658, 4, 58, 57
+	offsets: 5, 2, 66, 64
+	rotate: 90
+glow_r_3bRoof
+	bounds: 527, 4, 231, 88
+	offsets: 11, 2, 250, 199
+glow_r_4
+	bounds: 1717, 4, 58, 57
+	offsets: 5, 3, 66, 64
+	rotate: 90
+glow_r_5
+	bounds: 1776, 6, 73, 61
+	offsets: 5, 4, 83, 70
+gold bone 1
+	bounds: 1865, 506, 77, 56
+	offsets: 1, 2, 80, 59
+gold bone 3
+	bounds: 676, 97, 45, 57
+	offsets: 2, 1, 48, 59
+	rotate: 90
+grass1
+	bounds: 1339, 829, 151, 128
+grass2
+	bounds: 1762, 460, 115, 92
+	offsets: 1, 1, 117, 94
+	rotate: 90
+horseshoe
+	bounds: 1747, 319, 114, 139
+	offsets: 1, 4, 125, 144
+intense light 3b
+	bounds: 1672, 218, 88, 77
+	offsets: 2, 1, 94, 78
+intense-light-8b
+	bounds: 527, 94, 334, 86
+	offsets: 8, 4, 349, 103
+	rotate: 90
+lamp_L_glow
+	bounds: 760, 4, 138, 142
+	offsets: 14, 14, 163, 162
+lamp_L_light
+	bounds: 1744, 577, 71, 71
+	offsets: 5, 6, 81, 80
+lamp_R2
+	bounds: 1659, 297, 86, 179
+	offsets: 0, 4, 88, 183
+lamp_R_base
+	bounds: 1936, 283, 69, 110
+	offsets: 1, 1, 98, 112
+	rotate: 90
+lamp_R_glow
+	bounds: 1865, 142, 139, 141
+	offsets: 9, 15, 162, 162
+	rotate: 90
+lamp_R_light
+	bounds: 1865, 434, 70, 71
+	offsets: 4, 6, 80, 80
+	rotate: 90
+light_reflection_l_1
+	bounds: 1851, 10, 102, 57
+	offsets: 1, 3, 106, 63
+light_reflection_l_2
+	bounds: 1627, 478, 133, 96
+	offsets: 3, 2, 138, 101
+light_reflection_l_3roof
+	bounds: 1230, 194, 275, 98
+	offsets: 52, 33, 349, 224
+	rotate: 90
+light_reflection_l_4Roof
+	bounds: 1339, 472, 230, 93
+	offsets: 15, 3, 264, 189
+	rotate: 90
+light_reflection_l_5roof
+	bounds: 1491, 704, 255, 77
+	offsets: 13, 1, 276, 173
+light_reflection_r_1
+	bounds: 1951, 458, 105, 95
+	offsets: 3, 5, 111, 102
+	rotate: 90
+light_reflection_r_2
+	bounds: 1938, 354, 103, 102
+	offsets: 4, 5, 123, 112
+light_reflection_r_4roof
+	bounds: 615, 144, 305, 78
+	offsets: 48, 4, 367, 166
+	rotate: 90
+light_reflection_r_5roof
+	bounds: 1024, 182, 285, 77
+	offsets: 10, 0, 295, 158
+	rotate: 90
+poster shadow
+	bounds: 1761, 69, 102, 147
+	offsets: 22, 5, 152, 186
+reels_shadow_bottom2
+	bounds: 2, 193, 829, 68
+	offsets: 0, 6, 832, 79
+	rotate: 90
+rockFrontSmall2
+	bounds: 72, 397, 625, 212
+	offsets: 7, 11, 636, 232
+	rotate: 90
+shadow door L
+	bounds: 72, 193, 202, 224
+	offsets: 16, 31, 464, 275
+	rotate: 90
+smaller_dust_spine/dust_00009
+	bounds: 1339, 959, 162, 63
+	offsets: 8, 5, 176, 71
+smaller_dust_spine/dust_00010
+	bounds: 1011, 5, 169, 65
+	offsets: 7, 6, 180, 74
+	rotate: 90
+smaller_dust_spine/dust_00011
+	bounds: 1558, 474, 174, 67
+	offsets: 8, 5, 187, 76
+	rotate: 90
+smaller_dust_spine/dust_00012
+	bounds: 1587, 33, 179, 69
+	offsets: 8, 5, 193, 77
+	rotate: 90
+smaller_dust_spine/dust_00013
+	bounds: 1586, 290, 182, 71
+	offsets: 8, 9, 196, 83
+	rotate: 90
+smaller_dust_spine/dust_00014
+	bounds: 156, 6, 185, 73
+	offsets: 9, 10, 202, 87
+	rotate: 90
+smaller_dust_spine/dust_00015
+	bounds: 2, 2, 189, 76
+	offsets: 10, 11, 207, 91
+	rotate: 90
+smaller_dust_spine/dust_00016
+	bounds: 1248, 2, 190, 79
+	offsets: 9, 8, 206, 91
+	rotate: 90
+smaller_dust_spine/dust_00017
+	bounds: 1510, 21, 191, 75
+	offsets: 10, 11, 208, 96
+	rotate: 90
+smaller_dust_spine/dust_00018
+	bounds: 80, 2, 189, 74
+	offsets: 11, 10, 209, 96
+	rotate: 90
+smaller_dust_spine/dust_00019
+	bounds: 231, 6, 185, 70
+	offsets: 11, 12, 206, 96
+	rotate: 90
+smoke2small
+	bounds: 908, 176, 114, 291
+	offsets: 3, 2, 118, 301
+wind-mill-wheel-trimmed
+	bounds: 1330, 214, 255, 254
+	rotate: 90
+windmill base
+	bounds: 1658, 64, 148, 101
+	offsets: 1, 1, 150, 103
+	rotate: 90
+
+backgroundShared.webp
+	size: 2048, 2048
+	filter: MipMapLinearLinear, MipMapLinearLinear
+FS_bgMediumCropped01Small
+	bounds: 2, 2, 2000, 1977
+
+backgroundShared_2.webp
+	size: 2048, 2048
+	filter: MipMapLinearLinear, MipMapLinearLinear
+CliffsLeft3small
+	bounds: 1496, 711, 544, 1334
+	offsets: 9, 0, 553, 1342
+NewDogHouse
+	bounds: 2, 211, 1492, 1834
+	offsets: 46, 14, 1584, 1849
+sunriseSmall3
+	bounds: 1496, 2, 707, 452
+	rotate: 90
+
+backgroundShared_3.webp
+	size: 2048, 1024
+	filter: MipMapLinearLinear, MipMapLinearLinear
+Cliffsright3small
+	bounds: 2, 456, 542, 1232
+	offsets: 4, 1, 555, 1243
+	rotate: 90
+saloonDoorLeft
+	bounds: 1236, 629, 236, 369
+	offsets: 0, 0, 244, 369
+saloonDoorRight
+	bounds: 711, 100, 249, 354
+	offsets: 7, 0, 256, 354
+sunsetSmall3
+	bounds: 2, 2, 707, 452
